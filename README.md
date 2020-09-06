@@ -2,8 +2,8 @@
 
 > **Important**
 >
-> - Smooth DOC is a commercial library
-> - To unlock full package and have right to use it, you have to buy a license on [Smooth DOC website](https://smooth-doc.com).
+> - Smooth DOC is a commercial library.
+> - To unlock full package and have the right to use it, you have to buy a license on [Smooth DOC website](https://smooth-doc.com).
 
 ## Getting started
 
